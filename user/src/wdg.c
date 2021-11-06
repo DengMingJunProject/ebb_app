@@ -6,7 +6,7 @@
 * @date     	2018-05-08
 * @version  	A001 
 * @par Copyright (c):  
-*       LAXTON 
+*        
 * @par History:          
 *   version: kun, 2018-05-08, ½¨Á¢\n 
 */ 

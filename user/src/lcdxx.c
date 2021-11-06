@@ -6,7 +6,7 @@
 * @date     	2019-07-19 
 * @version  	A001 
 * @par Copyright (c):  
-*       laxton company 
+*       
 * @par History:          
 *   version: ken deng, 2019-07-18, ½¨Á¢\n 
 */  

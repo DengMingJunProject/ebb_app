@@ -6,7 +6,7 @@
 * @date     	2019-05-04 
 * @version  A001 
 * @par Copyright (c):  
-*       LAXTON 
+*        
 * @par History:          
 *   2019-05-04: Ken Deng, 2019-05-04, ½¨Á¢\n 
 */  
